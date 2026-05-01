@@ -1,0 +1,15 @@
+receptor = HSP.pdbqt
+ligand = 7438.pdbqt
+scoring = vina
+
+center_x = 3.133
+center_y = -2.196
+center_z = 16.028
+
+size_x = 102
+size_y = 92
+size_z = 126
+
+spacing = 0.603
+exhaustiveness = 8
+out = output.pdbqt
